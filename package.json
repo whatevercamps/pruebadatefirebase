@@ -13,7 +13,7 @@
     "express": "*",
     "firebase": "^6.2.1",
     "firebase-admin": "^8.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "node-gyp": "^3.8.0",
     "nodemon": "^1.18.11",
     "rebuild": "^0.1.2",
